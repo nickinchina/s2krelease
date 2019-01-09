@@ -6,6 +6,6 @@ The first time users click on the download link, a pop-up will be displayed on t
 To confirm this and in order for the app to be usable, they will have to go to the menu Settings > General > Profiles and Device Management in their iOS device. Your users will then have the pleasure of exploring and using your beautiful app! 
 
 ### Example Steps
-[Download App]()
+[Download App](https://github.com/nickinchina/s2krelease/blob/master/pic/downloadapp.gif)
 
-[Trust App]()
+[Trust App](https://github.com/nickinchina/s2krelease/blob/master/pic/trustapp.gif)
